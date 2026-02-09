@@ -1,57 +1,51 @@
-# 👋 Hi, I'm Gayan Rajasinghe
+<!-- ===== PROFILE HEADER ===== -->
+<h1 align="center">Hi 👋, I'm Gayan Rajasinghe</h1>
+<h3 align="center">Computer Science Undergraduate | Aspiring Full-Stack Software Engineer</h3>
 
-🎓 **Undergraduate in Computer Science** at **SLIIT**  
-💻 Passionate about building reliable software and learning modern technologies  
-🚀 Aspiring **Full-Stack Software Engineer**
+<p align="center">
+🎓 SLIIT • Year 2 – Semester 2 <br>
+💻 Java • Spring Boot • React • Full-Stack Development <br>
+🌱 Learning Advanced Git, SOLID Principles & UI/UX Design
+</p>
 
 ---
 
-## 🚀 Current Learning Focus
-- Advanced Git & GitHub workflows (branching strategies, pull requests, collaboration)
-- Full-Stack Web Development
-- Backend development with Spring Boot
-- Frontend development using React
-- Applying **SOLID principles** and clean code practices
-- **UI/UX Design** fundamentals for building user-friendly interfaces
-- Concepts of scalable and distributed systems
+## 🚀 About Me
+- 🎓 Computer Science undergraduate at **SLIIT**
+- 💻 Building clean and scalable **full-stack applications**
+- 🧠 Interested in **Software Engineering, Distributed Systems, and UI/UX Design**
+- 🌱 Continuously learning **Advanced Git & GitHub**, **SOLID Principles**, and **UI/UX Design**
+- 📫 Reach me at **raveenrajasinghe@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💡 Programming Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Octave](https://img.shields.io/badge/Octave-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
----
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### 🌐 Front-End Development
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
----
-
-### ⚙️ Back-End & Frameworks
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-
----
+### ⚙️ Backend & Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-
-### 🔧 Tools & Version Control
+### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 📚 Academic Modules (Year 2 – Semester 2)
+## 📚 Academic Focus (Year 2 – Semester 2)
 - Operating Systems
 - Programming Paradigms
 - Distributed Systems
@@ -60,10 +54,17 @@
 
 ---
 
-## 📫 Contact Me
-📧 Email: [raveenrajasinghe@gmail.com](mailto:raveenrajasinghe@gmail.com)  
-💼 LinkedIn: [Gayan Rajasinghe](https://www.linkedin.com/in/gayan-rajasinghe)
+## 🤝 Connect With Me
+<p align="center">
+<a href="https://www.linkedin.com/in/gayan-rajasinghe" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:raveenrajasinghe@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-⭐ *Continuously learning, building, and improving as a software engineer.*
+⭐ *Always learning, building, and occasionally breaking things… just to learn faster.*
+
